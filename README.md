@@ -43,7 +43,7 @@ Initial detection experiments were run on the initial 1M fake images generated. 
 
 
 
-Additionally, class activation maps were implemented in the ViT network and ran on both authentica and fake aerial images in order to better understand what image features provided the most contextual information in order to lead to ViT convergence.
+Additionally, class activation maps were implemented in the ViT network and ran on both authentic and fake aerial images in order to better understand what image features provided the most contextual information in order to lead to ViT convergence.
 
 <img width="627" alt="Screen Shot 2022-04-24 at 12 44 44 PM" src="https://user-images.githubusercontent.com/104281028/164994005-c6a3afca-34ce-4772-9bbb-5e98a928b897.png">
 
