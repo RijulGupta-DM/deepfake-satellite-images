@@ -26,14 +26,10 @@ The DM-AER-DeepFake-V1 dataset was created by training the [rosinality StyleGAN2
 Fake Images in the DM-AER-DeepFake-V1 dataset
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/104281028/164993812-c6b3512a-919d-44b2-9b83-6e6069691af1.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/104281028/164993815-bca1c534-b674-44f3-b68f-64e0b8e1cf0c.png" width="100" /> 
-  <img src="https://user-images.githubusercontent.com/104281028/164993823-742292ef-1bc9-4208-af77-af4eb5e3c981.png" width="100" />
+  <img src="https://user-images.githubusercontent.com/104281028/164993812-c6b3512a-919d-44b2-9b83-6e6069691af1.png" width="512" />
+  <img src="https://user-images.githubusercontent.com/104281028/164993815-bca1c534-b674-44f3-b68f-64e0b8e1cf0c.png" width="512" /> 
+  <img src="https://user-images.githubusercontent.com/104281028/164993823-742292ef-1bc9-4208-af77-af4eb5e3c981.png" width="512" />
 </p>
-![000000570](https://user-images.githubusercontent.com/104281028/164993812-c6b3512a-919d-44b2-9b83-6e6069691af1.png)
-![000000561](https://user-images.githubusercontent.com/104281028/164993815-bca1c534-b674-44f3-b68f-64e0b8e1cf0c.png)
-![000000271](https://user-images.githubusercontent.com/104281028/164993823-742292ef-1bc9-4208-af77-af4eb5e3c981.png)
-
 
 ## Detection
 Initial detection experiments were run on the initial 1M fake images generated. The [ViT-pytorch][vit] repo was chosen as a state-of-the-art detection method. The real AID dataset was used as the "authentic" image source. The repo's dataloader module was modified to ensure upsampling of the authentic images so that the model would see equal number of authentic and fake images during training. The network converged after 2 days of training on an NVIDIA V100 GPU. High-level results are presented below:
