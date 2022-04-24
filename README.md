@@ -36,7 +36,7 @@ Initial detection experiments were run on the initial 1M fake images generated. 
 - Type 2 error: 02%
 
 <img width="492" alt="Screen Shot 2022-04-24 at 12 43 42 PM" src="https://user-images.githubusercontent.com/104281028/164993958-9007eedd-9a7b-4f48-9c23-e5889081b87b.png">
-<img width="443" alt="Screen Shot 2022-04-24 at 12 44 08 PM" src="https://user-images.githubusercontent.com/104281028/164993962-0a87af4d-6fb2-4069-93a4-a95dc3d3ecaa.png">
+<img width="443" alt="Screen Shot 2022-04-24 at 12 44 08 PM" src="https://user-images.githubusercontent.com/104281028/164994108-528166f1-392e-4669-8e44-86125858e60e.png">
 <img width="419" alt="Screen Shot 2022-04-24 at 12 44 19 PM" src="https://user-images.githubusercontent.com/104281028/164994067-e8326074-885f-4b8e-8209-59a1bf2fa8ab.png">
 
 
