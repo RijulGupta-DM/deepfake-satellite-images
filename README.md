@@ -38,10 +38,13 @@ Initial detection experiments were run on the initial 1M fake images generated. 
 <img width="492" alt="Screen Shot 2022-04-24 at 12 43 42 PM" src="https://user-images.githubusercontent.com/104281028/164993958-9007eedd-9a7b-4f48-9c23-e5889081b87b.png">
 <img width="443" alt="Screen Shot 2022-04-24 at 12 44 08 PM" src="https://user-images.githubusercontent.com/104281028/164993962-0a87af4d-6fb2-4069-93a4-a95dc3d3ecaa.png">
 <img width="422" alt="Screen Shot 2022-04-24 at 12 44 19 PM" src="https://user-images.githubusercontent.com/104281028/164993968-9ff1d3a4-72f0-4e1f-969b-88e01806da75.png">
-<img width="627" alt="Screen Shot 2022-04-24 at 12 44 44 PM" src="https://user-images.githubusercontent.com/104281028/164994005-c6a3afca-34ce-4772-9bbb-5e98a928b897.png">
+
 
 
 Additionally, class activation maps were implemented in the ViT network and ran on both authentica and fake aerial images in order to better understand what image features provided the most contextual information in order to lead to ViT convergence.
+
+<img width="627" alt="Screen Shot 2022-04-24 at 12 44 44 PM" src="https://user-images.githubusercontent.com/104281028/164994005-c6a3afca-34ce-4772-9bbb-5e98a928b897.png">
+
 
 ## Future Research
 These results depict an early exploration into the creation and detection of synthetic aerial images. Below, we attempt to provide a non-exhaustive list of areas for potential improvement in creation methods, as well as techniques for detection.
