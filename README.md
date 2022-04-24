@@ -23,12 +23,10 @@ The DM-AER-DeepFake-V1 dataset was created by training the [rosinality StyleGAN2
 - added learning rate scheduler
 - augmentation
 
-Fake Images in the DM-AER-DeepFake-V1 dataset
-
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/104281028/164993812-c6b3512a-919d-44b2-9b83-6e6069691af1.png" width="512" />
-  <img src="https://user-images.githubusercontent.com/104281028/164993815-bca1c534-b674-44f3-b68f-64e0b8e1cf0c.png" width="512" /> 
-  <img src="https://user-images.githubusercontent.com/104281028/164993823-742292ef-1bc9-4208-af77-af4eb5e3c981.png" width="512" />
+  <img src="https://user-images.githubusercontent.com/104281028/164993812-c6b3512a-919d-44b2-9b83-6e6069691af1.png" width="256" />
+  <img src="https://user-images.githubusercontent.com/104281028/164993815-bca1c534-b674-44f3-b68f-64e0b8e1cf0c.png" width="256" /> 
+  <img src="https://user-images.githubusercontent.com/104281028/164993823-742292ef-1bc9-4208-af77-af4eb5e3c981.png" width="256" />
 </p>
 
 ## Detection
